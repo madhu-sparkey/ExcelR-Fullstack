@@ -1,0 +1,19 @@
+/*   colour properties*/
+/* colour background-colour, background */
+#first
+{
+    color: white;
+    background-color: black;
+}
+#second
+{
+    color: red;
+    background-color: yellow;
+}
+
+body
+{
+    background: url(./bride-8182890_1280.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}

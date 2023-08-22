@@ -1,0 +1,18 @@
+/*  
+HEX values #RRGGBB
+1 2 3 4 5 6 7 8 9 A(10) B(11) C(12) D(13) E(14) F(15)
+#FF0000 - RED
+#00FF00 - GREEN
+ */
+
+ #first
+ {
+    color:#ff0000 ;
+    background: #000;
+ }
+ #second
+ {
+    color:#fff;
+    background: #00ff00;
+ }
+ 

@@ -1,0 +1,41 @@
+/* 
+
+height: auto ; min - height ; max - height ; overflow
+
+*/
+* {
+    margin: 0 ;
+}
+
+.navbar
+{
+    background-color: blue;
+    height: 6rem;
+    color: white;
+    font-size: 3rem;
+}
+.banner
+{
+    background: red;
+    min-height: 100vh ;
+    max-height: 90vh;
+    overflow: hidden;
+    overflow: scroll;
+
+}
+.example{
+    background: green;
+    width: 10rem;
+    height: 25rem;
+    overflow: hidden;
+    overflow: scroll;
+
+}
+.demo
+{
+    background-color: black;
+    color: red;
+    min-height: 50vh;
+    max-height: 50vh;
+}
+

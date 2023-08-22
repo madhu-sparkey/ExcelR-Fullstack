@@ -1,0 +1,27 @@
+/* last rule and specificity * universal selecter */
+.special
+{
+    color: green;
+}
+p
+{
+ color: red;
+}
+
+p
+{
+ color: blue;
+}
+
+#heading
+{
+    columns: red;
+}
+.heading
+{
+    color: green;
+}
+*
+{
+    color: chocolate ;
+}

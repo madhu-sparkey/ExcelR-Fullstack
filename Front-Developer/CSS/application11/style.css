@@ -1,0 +1,33 @@
+/* class vs id   */
+.green
+{
+    color: green;
+}
+.red
+{
+    color: red;
+    background-color: black;
+}
+#tital
+{
+    font-size: 50px;
+}
+.green
+{
+    color: green;
+    text-transform: uppercase;
+}
+.red
+{
+    color: red;
+    text-transform: uppercase;
+}
+#sometital
+{
+    color: blue;
+}
+.someclass
+{
+    color: rgb(52, 215, 52);
+}
+

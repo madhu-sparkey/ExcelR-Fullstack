@@ -1,0 +1,15 @@
+/* %- percent value/unit- relative depends on its parent */
+
+.outer
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+}
+.inner
+{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
